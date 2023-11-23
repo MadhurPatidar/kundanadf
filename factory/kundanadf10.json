@@ -1,0 +1,17 @@
+{
+	"name": "kundanadf10",
+	"properties": {
+		"globalParameters": {
+			"ADFName": {
+				"type": "string",
+				"value": "kundanadf10"
+			}
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "334e4993-eb15-417f-beaa-6a020218f249",
+		"tenantId": "37e7a102-d268-4f7b-8676-b05481b7c130"
+	}
+}
